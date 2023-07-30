@@ -1,7 +1,7 @@
 # _Приветствую, меня зовут Ярослав_
 ![Header](https://github.com/Ekleir/Ekleir/blob/main/assets/9afe0493484903.5e66500f8dea4.gif)
 
-## Я Python веб - разработчик
+## Я веб - разработчик на Python
 
 __Языки__: Английский B1
 <br>
